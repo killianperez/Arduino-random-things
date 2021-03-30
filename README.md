@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/forks/Kenmeiyoki/arduino-blinking-led?style=plastic" alt="kenmeiyoki" />
   <img src="https://img.shields.io/github/stars/Kenmeiyoki/arduino-blinking-led?style=plastic" alt="kenmeiyoki" />
   <img src="https://img.shields.io/github/license/Kenmeiyoki/arduino-blinking-led?style=plastic" alt="kenmeiyoki" />
-  <img src="https://img.shields.io/badge/Made%20with-Python%203.8-1f425f?style=plastic" alt="kenmeiyoki" />
+  <img src="https://img.shields.io/badge/Made%20with-C++-1f425f?style=plastic" alt="kenmeiyoki" />
 </p>
 
 ## Note
