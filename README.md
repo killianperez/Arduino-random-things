@@ -1,36 +1,28 @@
-# arduino-blinking-led
+<h1 align="center"> arduino-blinking-led </h1>
 
-License: cc-by-sa-4.0
-By: Killian PEREZ (https://github.com/Kenmeiyoki/arduino-blinking-led/)
-Terms:
-Attribution — You must give appropriate credit AND link to this github
-ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+<p align="center">
+  <img src="https://img.shields.io/badge/status-NO%20LONGER%20MAINTAINED-red.svg?style=plastic&logo=data:image/gif;base64,R0lGODlhMAAwAPMIAFQAAJgAALoAAMwAAP8AAP9mZv+YmP/MzP8A/wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAUAAAgALAAAAAAwADAAAAT/EMlJq7046827/2AojhoAkJYpqijFeuZxvGM8n51Nr4C8X7ZCwWD4cYIFAsE4QRKZpd5BqGTaBgOl8Ik7SqkEbCDwu2YJ22J3g1SKyWsXQCDAaofqqAz8hiJMdHZoeH5tYQNjfhKAdWdpZV9Jh4lxGYyCj5WGfZVRgY6EOJuIcDyfd1yLkW6kipZzjahqe5KcLZegXLSslC2qp4NYfK2dNbCYBcK1xL4VuErQk6XNzsdn0bbUKbDRSr3aQNzd3+BNq92Z5aq76KHlo2PIqdTwAfJ5vvXPg/Mk+tayXGH49ysWP3wgCP4BeFCgOXbZ5ABLl+NcRHMT3bGxyOxVxn7hOiB2HMiQ4jaR5DZ+RPhwyrKUngyarMZrWkKGhQDUdCjRoCsTMEMwcgjUpjE6PBdqS6pqaTF1UKNiiAAAOw==" alt="kenmeiyoki" />
+  <img src="https://img.shields.io/badge/last%20update-2019--11--11-informational?style=plastic" alt="kenmeiyoki" />
+  <img src="https://img.shields.io/github/issues/Kenmeiyoki/arduino-blinking-led?style=plastic" alt="kenmeiyoki" />
+  <img src="https://img.shields.io/github/release/Kenmeiyoki/arduino-blinking-led?style=plastic" alt="kenmeiyoki" />
+  <img src="https://img.shields.io/github/forks/Kenmeiyoki/arduino-blinking-led?style=plastic" alt="kenmeiyoki" />
+  <img src="https://img.shields.io/github/stars/Kenmeiyoki/arduino-blinking-led?style=plastic" alt="kenmeiyoki" />
+  <img src="https://img.shields.io/github/license/Kenmeiyoki/arduino-blinking-led?style=plastic" alt="kenmeiyoki" />
+  <img src="https://img.shields.io/badge/Made%20with-Python%203.8-1f425f?style=plastic" alt="kenmeiyoki" />
+</p>
+
+## Note
+This was all Arduino projects carried out at school.
+Therefore, it will not be updated.
+But I put it here, because it might be useful. 
+
+# Description
+These are random programs requested by my teachers.
+All information and descriptions are available at the start of each file. 
+
+# License (All files in this project)  <img src="https://img.shields.io/github/license/Kenmeiyoki/arduino-blinking-led?style=plastic" alt="kenmeiyoki" />
+© KILLIAN PEREZ - 2019 <BR/>
+---> [License MIT](https://lbesson.mit-license.org/)<BR/>
+---> [License File](LICENSE)
 
 
-<h1> README NEED TO BE UPDATED !!! </h1>
-
-<h2>[[[ THIS IS ONE OF MY SCHOOL PROJECT ]]]</h2>
-
-<h3>FRENCH:</h3>
-
-CE TP SERT D'EXEMPLE À LA CLASSE CAR IL UTILISE LES "FONCTIONS"
-
-CRÉÉ PAR KILLIAN PEREZ -- TP2 AFFICHER HEXADECIMAL SUR AFFICHEUR SEPT SEGMENT
-
-TP1   DEL clignotante
-1 diode électroluminescente est connectée à la Pin 2 et à une résistance  de 220 ohms.
-La DEL est allumée sur NL1 et éteinte sur NL0.
-Dans ce programme, la DEL est allumée 100ms puis éteinte 100ms
-
-
-<h3>ENGLISH</h3>
-
-THIS EXERCICE IS USED AS EXAMPLE TO THE CLASS BECAUSE IT USE "FUNCTION"
-
-CREATED BY KILLIAN PEREZ - EX2 DISPLAY HEXADECIMAL NUMBERS ON 7-SEGMENTS DISPLAY --
-
-EX1    BLINKING LED
-
-1 light emitting diode is connected to Pin 2 and to a 220 ohm resistor.
-The LED is on on NL1 and off on NL0.
-In this program, the LED is on 100ms then off 100ms 
