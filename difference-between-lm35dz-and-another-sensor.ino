@@ -1,3 +1,10 @@
+/*
+LICENSE MIT
+BY : KILLIAN PEREZ
+DATE: 2019, December 17th
+DESCRIPTION:
+   Display temperature from LM35DZ sensor as metric system
+*/
 #include <Wire.h> // Libs
 #include "rgb_lcd.h"
 
